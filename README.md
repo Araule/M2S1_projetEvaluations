@@ -1,5 +1,7 @@
 # TALA540A : TP de Laura Darenne
 
+Ceci est le dépôt du projet individuel d'évaluations de module python pour une tâche de Traitement Automatique des Langues. Il s'agit d'un cours du premier semestre de deuxième année de master TAL (NLP) de l'INALCO. L'analyse a été faite sur des modules d'étiquetage en partie du discours pour le chinois classique.
+
 ### dossier corpus
 
 Le dossier contient tous les corpus pré-traités et les fichiers vecteurs utilisés pour l'entraînement. Il y a également les fichiers python utilisés pour le pré-traitement.
